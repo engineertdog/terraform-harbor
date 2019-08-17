@@ -1,0 +1,2 @@
+# KMS
+variable "kms-description" {}
